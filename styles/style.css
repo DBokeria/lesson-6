@@ -1,0 +1,236 @@
+/* header */
+.title-text{
+    padding-top: 80px;
+    text-align: center;
+    width: 760px;
+    margin: 0 auto;
+}
+h1{
+    
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    color: #282828;
+}
+h2{
+    margin-top: 4px;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 62px;
+    color: #282828;
+}
+.title-p{
+    margin-top: 16px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+    color: #282828;
+}
+
+/* conteiner */
+
+.conteiner{
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    flex-wrap: wrap;
+    width: 1336px;
+    height: 908px;
+    margin: 0 auto;
+    margin-top: 48px;
+    display: flex;
+}
+
+.box{
+    width: 310px;
+    height: 430px;
+}
+
+.box-text{
+    width: 278px;
+    margin: 0 auto;
+    margin-top: 16px;
+}
+
+h3{
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    color: #282828;
+}
+h4{
+    margin-top: 4px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #282828;
+}
+.boxes-p{
+    margin-top: 8px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #282828;
+}
+
+.cocial-net{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+    padding-left: 16px;
+    width: 140px;
+}
+
+.net{
+    width: 36px;
+    height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    background-color: #f2f4f7;
+}
+
+/* footer */
+
+.foot{
+    background-color: #53535354;
+    height: 512px;
+}
+
+.conteiner-2{
+    display: flex;
+    width: 1306px;
+    height: 223px;
+    margin: 0 auto;
+    padding-top: 108px;
+    margin-top: 156px;
+}
+
+.block1{
+    width: 318.05px;
+}
+
+.image{
+    width: 100px;
+    height: 64px;
+}
+
+.block1-p{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.94px;
+    margin-top: 36px;
+    color: #535353;
+}
+
+.cocial-net2{
+    width: 104px;
+    margin-top: 28px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* block2 */
+
+.block2{
+    width: 136px;
+    height: 223px;
+    margin-left: 144.95px;
+}
+
+h5{
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24.2px;
+    color: #1e1e1e;
+}
+
+
+.web-link1{
+    width: 92px;
+    height: 17px;
+    margin-bottom: 15px;
+    margin-top: 71px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.9px;
+    color: #535353;
+}
+
+.web-link2{
+    width: 92px;
+    height: 48px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.9px;
+    color: #535353;
+}
+
+.web-link3{
+    width: 108px;
+    height: 48px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.9px;
+    color: #535353;
+}
+
+/* block3 */
+
+.block3{
+    width: 199px;
+    height: 223px;
+    margin-left: 254px;
+}
+
+.service1{
+    margin-top: 55px;
+}
+
+.service{
+    width: 199px;
+    height: 48px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.9px;
+    color: #535353;
+}
+
+/* block4 */
+
+.block4{
+    width: 107px;
+    height: 127.45px;
+    margin-left: 147px;
+}
+
+.blue-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 45px;
+    margin-top: 58.45px;
+    background-color: #054a68;
+}
+
+.English{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.94px;
+    color: #fff;
+}
